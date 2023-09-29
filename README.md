@@ -1,2 +1,2 @@
 # card_slider
-[View My Site](https://Deeksha27Deekshitha.github.io/card_slider/cardslider/)
+[View My Site](https://Deeksha27Deekshitha.github.io/card_slider/cardslider/index.html)
